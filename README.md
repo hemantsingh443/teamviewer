@@ -3,6 +3,7 @@
 ## Problem Statement-12
 Dual Image Super Resolution for High-Resolution Optical Satellite Imagery and its Blind Evaluation
 
+## Image Representing Problem Statement
 Acquiring high-resolution data from satellite platforms is an expensive operation due to resource constraints. Hence, satellites acquire multiple low-resolution images often shifted by half a pixel in both along and across track directions. These low-resolution images are utilized to generate high-resolution images. The quality of high-resolution images often depends on various satellite system parameters including the algorithm used for super-resolving. However, assessing the quality of these generated super-resolved images is challenging due to the absence of ground-truth references. This also necessitates the use of blind (no-reference) quality assessment techniques that can evaluate both the perceptual realism and fidelity of super-resolved images.
 
 ## Objective
@@ -43,7 +44,5 @@ Acquiring high-resolution data from satellite platforms is an expensive operatio
 
 ### Credits
 This project uses the [PROBA-V Super-Resolution dataset](https://zenodo.org/records/6327426) by Marcus Märtens, Dario Izzo, Andrej Krzic, and Daniel Cox, provided by ESA's Kelvins competition.
-
-## Image Representing Problem Statement
 
 > _Note: The approach is not stated yet. This is just an initialization of the project repository with data and notebook._ 
