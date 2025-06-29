@@ -41,6 +41,9 @@ Acquiring high-resolution data from satellite platforms is an expensive operatio
 - Correlation of blind assessment results with full-reference metrics.
 - Robustness of blind metrics under different levels of image quality.
 
+### Credits
+This project uses the [PROBA-V Super-Resolution dataset](https://zenodo.org/records/6327426) by Marcus Märtens, Dario Izzo, Andrej Krzic, and Daniel Cox, provided by ESA's Kelvins competition.
+
 ## Image Representing Problem Statement
 
 > _Note: The approach is not stated yet. This is just an initialization of the project repository with data and notebook._ 
